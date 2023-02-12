@@ -1,0 +1,19 @@
+body{
+    color: aqua;
+    background: yellowgreen;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.name_of_objects,#result_object_name,#result_object_accuricy{
+    color: cadetblue;
+
+}
+#cammara{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
